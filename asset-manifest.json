@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wagbaa/static/css/main.496f4533.css",
+    "main.js": "/wagbaa/static/js/main.a392af22.js",
+    "static/js/787.93d5b4a3.chunk.js": "/wagbaa/static/js/787.93d5b4a3.chunk.js",
+    "static/media/logo.svg": "/wagbaa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wagbaa/index.html",
+    "main.496f4533.css.map": "/wagbaa/static/css/main.496f4533.css.map",
+    "main.a392af22.js.map": "/wagbaa/static/js/main.a392af22.js.map",
+    "787.93d5b4a3.chunk.js.map": "/wagbaa/static/js/787.93d5b4a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.496f4533.css",
+    "static/js/main.a392af22.js"
+  ]
+}
